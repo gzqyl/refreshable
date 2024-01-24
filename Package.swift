@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
 		.package(
 			name: "Introspect",
-			url: "https://github.com/siteline/SwiftUI-Introspect.git",
+			url: "https://github.com/gzqyl/swiftui-introspect",
 			.branch("master")
 		)
     ],
