@@ -24,7 +24,7 @@ let package = Package(
     targets: [
         .target(
             name: "Refreshable",
-            dependencies: ["Introspect"],
+            dependencies: ["SwiftUIIntrospect"],
 			path: "Refreshable"
 		)
     ]
