@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
 		.package(
-			name: "Introspect",
+			name: "swiftui-introspect",
 			url: "https://github.com/gzqyl/swiftui-introspect",
 			.branch("master")
 		)
